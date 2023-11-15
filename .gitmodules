@@ -10,6 +10,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = https://github.com/DinGo21/pipex.git
-[submodule "solong"]
+[submodule "so_long"]
 	path = solong
 	url = https://github.com/DinGo21/so_long.git
