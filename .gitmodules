@@ -11,5 +11,5 @@
 	path = pipex
 	url = https://github.com/DinGo21/pipex.git
 [submodule "so_long"]
-	path = solong
+	path = so_long
 	url = https://github.com/DinGo21/so_long.git
