@@ -13,3 +13,6 @@
 [submodule "so_long"]
 	path = so_long
 	url = https://github.com/DinGo21/so_long.git
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/DinGo21/push_swap.git
