@@ -19,3 +19,6 @@
 [submodule "philosophers"]
 	path = philosophers
 	url = https://github.com/DinGo21/philosophers.git
+[submodule "netpractice"]
+	path = netpractice
+	url = https://github.com/DinGo21/netpractice.git
