@@ -28,3 +28,6 @@
 [submodule "inception"]
 	path = inception
 	url = git@github.com:DinGo21/inception.git
+[submodule "cubtresde"]
+	path = cubtresde
+	url = git@github.com:DinGo21/cubtresde.git
