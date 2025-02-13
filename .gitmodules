@@ -25,3 +25,6 @@
 [submodule "CPPmodules"]
 	path = CPPmodules
 	url = git@github.com:DinGo21/CPPmodules.git
+[submodule "inception"]
+	path = inception
+	url = git@github.com:DinGo21/inception.git
