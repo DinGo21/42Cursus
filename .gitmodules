@@ -22,3 +22,6 @@
 [submodule "netpractice"]
 	path = netpractice
 	url = https://github.com/DinGo21/netpractice.git
+[submodule "CPPmodules"]
+	path = CPPmodules
+	url = git@github.com:DinGo21/CPPmodules.git
